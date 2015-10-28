@@ -12,7 +12,7 @@
 
 #### 7 Practicing automatic merging. 
 
-#### 8
+#### 8 Hello conflict.
 
 #### 9 GitHub is fine.
 
