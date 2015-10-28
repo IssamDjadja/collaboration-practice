@@ -4,7 +4,7 @@
 #### 4
 #### 5
 #### 6
-#### 7
+#### 7 Practicing automatic merging. 
 #### 8
 #### 9 Github is awesome.
 #### 10
