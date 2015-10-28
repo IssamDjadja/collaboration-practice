@@ -12,7 +12,7 @@
 
 #### 7 Practicing automatic merging. 
 
-#### 8
+#### 8 Ha im first.
 
 #### 9 GitHub is fine.
 
