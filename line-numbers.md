@@ -12,7 +12,11 @@
 
 #### 7 Practicing automatic merging. 
 
+<<<<<<< HEAD
 #### 8 Hello conflict.
+=======
+#### 8 Ha im first.
+>>>>>>> 99e8c88dc17a5efeb602df0053eab0b615223fd8
 
 #### 9 GitHub is fine.
 
