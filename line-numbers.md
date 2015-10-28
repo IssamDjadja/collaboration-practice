@@ -4,9 +4,9 @@
 #### 4
 #### 5 Second time practice
 #### 6
-#### 7
+#### 7 Practicing automatic merging. 
 #### 8
-#### 9 GitHub is ok...
+#### 9 GitHub is fine.
 #### 10
 #### 11
 #### 12
